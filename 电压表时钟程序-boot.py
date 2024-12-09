@@ -6,7 +6,7 @@ from machine import RTC
 
 # 配置WiFi
 SSID = 'SYG'
-PASSWORD = '12345678'
+PASSWORD = '1234567890'
 
 wlan = network.WLAN(network.STA_IF)
 wlan.active(True)
